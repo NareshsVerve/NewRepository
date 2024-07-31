@@ -1,0 +1,498 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\custom data annotation\\passwordstrengthattribute .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\custom data annotation\\passwordstrengthattribute .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\custom data annotation\\validateusernameattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\custom data annotation\\validateusernameattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\custom data annotation\\validuseridattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\custom data annotation\\validuseridattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\custom data annotation\\uniqueusernameattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\custom data annotation\\uniqueusernameattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoAppDB/True/SqlTable/dbo.Todos.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\repository\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\repository\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\models\\todostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\models\\todostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoAppDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\migrations\\20240724071031_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\migrations\\20240724071031_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\repository\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\repository\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\generic repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\generic repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\generic repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\generic repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|c:\\users\\verve\\desktop\\naresh training\\todo app\\todo app\\todo app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{904EEFC6-01F0-4F1E-9200-03606E7264B7}|Todo App\\Todo App.csproj|solutionrelative:todo app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Migrations\\20240723092517_UpdateMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Todo App\\Migrations\\20240723092517_UpdateMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Migrations\\20240723092301_UpdateMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Todo App\\Migrations\\20240723092301_UpdateMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Migrations\\20240723091751_UpdateMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Todo App\\Migrations\\20240723091751_UpdateMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\verve\\AppData\\Local\\Temp\\dbo.Todos.data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repositiory\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Todo App\\Repositiory\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repositiory\\ITodoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Todo App\\Repositiory\\ITodoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repositiory\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Todo App\\Repositiory\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repositiory\\TodoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Todo App\\Repositiory\\TodoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Todo App\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Todo App\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDAAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:09:42.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Todo App\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Models\\User.cs",
+              "RelativeToolTip": "Todo App\\Models\\User.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:16:55.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidateUsernameAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Custom Data Annotation\\ValidateUsernameAttribute.cs",
+              "RelativeDocumentMoniker": "Todo App\\Custom Data Annotation\\ValidateUsernameAttribute.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Custom Data Annotation\\ValidateUsernameAttribute.cs",
+              "RelativeToolTip": "Todo App\\Custom Data Annotation\\ValidateUsernameAttribute.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:09:34.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordStrengthAttribute .cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Custom Data Annotation\\PasswordStrengthAttribute .cs",
+              "RelativeDocumentMoniker": "Todo App\\Custom Data Annotation\\PasswordStrengthAttribute .cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Custom Data Annotation\\PasswordStrengthAttribute .cs",
+              "RelativeToolTip": "Todo App\\Custom Data Annotation\\PasswordStrengthAttribute .cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:30:16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Todo App\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Todo App\\Controllers\\TodoController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwIUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:37:21.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repository\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "Todo App\\Repository\\TodoRepository.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repository\\TodoRepository.cs",
+              "RelativeToolTip": "Todo App\\Repository\\TodoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:04:38.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidUserIdAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Custom Data Annotation\\ValidUserIdAttribute.cs",
+              "RelativeDocumentMoniker": "Todo App\\Custom Data Annotation\\ValidUserIdAttribute.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Custom Data Annotation\\ValidUserIdAttribute.cs",
+              "RelativeToolTip": "Todo App\\Custom Data Annotation\\ValidUserIdAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:43:03.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Todo App\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Todo App\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:55:27.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Todos [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoAppDB/True/SqlTable/dbo.Todos.sql",
+              "ToolTip": "dbo.Todos [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-24T09:54:18.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UniqueUsernameAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Custom Data Annotation\\UniqueUsernameAttribute.cs",
+              "RelativeDocumentMoniker": "Todo App\\Custom Data Annotation\\UniqueUsernameAttribute.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Custom Data Annotation\\UniqueUsernameAttribute.cs",
+              "RelativeToolTip": "Todo App\\Custom Data Annotation\\UniqueUsernameAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:28:09.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Todo App\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Todo App\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAywDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:35:14.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TodoStatus.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Models\\TodoStatus.cs",
+              "RelativeDocumentMoniker": "Todo App\\Models\\TodoStatus.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Models\\TodoStatus.cs",
+              "RelativeToolTip": "Todo App\\Models\\TodoStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:51:49.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoAppDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-24T07:58:29.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Program.cs",
+              "RelativeDocumentMoniker": "Todo App\\Program.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Program.cs",
+              "RelativeToolTip": "Todo App\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:47:50.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Todo App\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Models\\Todo.cs",
+              "RelativeToolTip": "Todo App\\Models\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:17:22.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240724071031_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Migrations\\20240724071031_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Todo App\\Migrations\\20240724071031_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Migrations\\20240724071031_InitialMigration.cs",
+              "RelativeToolTip": "Todo App\\Migrations\\20240724071031_InitialMigration.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:10:32.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Todo App\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Todo App\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:38:37.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Todo App\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Todo App\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:49:24.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repository\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "Todo App\\Repository\\ITodoRepository.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repository\\ITodoRepository.cs",
+              "RelativeToolTip": "Todo App\\Repository\\ITodoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:04:58.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Generic Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Todo App\\Generic Repository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Generic Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "Todo App\\Generic Repository\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:25:36.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Generic Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Todo App\\Generic Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Generic Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Todo App\\Generic Repository\\GenericRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAiwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:26:50.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\appsettings.json",
+              "RelativeDocumentMoniker": "Todo App\\appsettings.json",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\appsettings.json",
+              "RelativeToolTip": "Todo App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T05:35:34.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repositiory\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Todo App\\Repositiory\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repositiory\\UserRepository.cs",
+              "RelativeToolTip": "Todo App\\Repositiory\\UserRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAswCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:43:13.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repositiory\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "Todo App\\Repositiory\\ITodoRepository.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repositiory\\ITodoRepository.cs",
+              "RelativeToolTip": "Todo App\\Repositiory\\ITodoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:09:15.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repositiory\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Todo App\\Repositiory\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repositiory\\IUserRepository.cs",
+              "RelativeToolTip": "Todo App\\Repositiory\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:32:44.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repositiory\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "Todo App\\Repositiory\\TodoRepository.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Repositiory\\TodoRepository.cs",
+              "RelativeToolTip": "Todo App\\Repositiory\\TodoRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwCYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:09:39.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240723092517_UpdateMigration.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Migrations\\20240723092517_UpdateMigration.cs",
+              "RelativeDocumentMoniker": "Todo App\\Migrations\\20240723092517_UpdateMigration.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Migrations\\20240723092517_UpdateMigration.cs",
+              "RelativeToolTip": "Todo App\\Migrations\\20240723092517_UpdateMigration.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwBAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:25:17.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240723092301_UpdateMigration.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Migrations\\20240723092301_UpdateMigration.cs",
+              "RelativeDocumentMoniker": "Todo App\\Migrations\\20240723092301_UpdateMigration.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Migrations\\20240723092301_UpdateMigration.cs",
+              "RelativeToolTip": "Todo App\\Migrations\\20240723092301_UpdateMigration.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:23:02.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240723091751_UpdateMigration.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Migrations\\20240723091751_UpdateMigration.cs",
+              "RelativeDocumentMoniker": "Todo App\\Migrations\\20240723091751_UpdateMigration.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\Naresh Training\\Todo App\\Todo App\\Todo App\\Migrations\\20240723091751_UpdateMigration.cs",
+              "RelativeToolTip": "Todo App\\Migrations\\20240723091751_UpdateMigration.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:17:51.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "dbo.Todos.data ",
+              "DocumentMoniker": "C:\\Users\\verve\\AppData\\Local\\Temp\\dbo.Todos.data.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\dbo.Todos.data.sql",
+              "ToolTip": "dbo.Todos.data *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-23T09:09:56.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
